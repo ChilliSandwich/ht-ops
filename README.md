@@ -1,5 +1,3 @@
-Here is a **production-grade README draft** you can use directly (or slightly adapt) for your GitHub repository.
-
 ---
 
 # High-Throughput Order Processing System
