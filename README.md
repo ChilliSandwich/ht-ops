@@ -309,13 +309,3 @@ Example decisions:
 * Blue/green deployment
 * Multi-region support
 
----
-
-If you'd like, I can now:
-
-* Make this README even more “FAANG-level polished”
-* Add C4 architecture diagrams
-* Help you prepare how to explain this in interviews
-* Or design a phased implementation roadmap
-
-Let me know what would be most helpful.
